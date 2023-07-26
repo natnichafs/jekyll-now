@@ -4,12 +4,8 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
-
-### More Information
-
-A place to include any other types of information that you'd like to include about yourself.
+My name is Natnicha Sukprawit. I graduated from Swarthmore College with an Honors major in Economics, a Honors minor in Mathematics, a minor in Computer Science. I am interested in pursuing a career in academia or economics research. 
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[natnicha.fs@gmail.com](mailto:natnicha.fs@gmail.com)
